@@ -1,0 +1,15 @@
+D:\dotnet\Kalkulator\ModelSimbol\bin\Debug\net7.0\ModelSimbol.exe
+D:\dotnet\Kalkulator\ModelSimbol\bin\Debug\net7.0\ModelSimbol.deps.json
+D:\dotnet\Kalkulator\ModelSimbol\bin\Debug\net7.0\ModelSimbol.runtimeconfig.json
+D:\dotnet\Kalkulator\ModelSimbol\bin\Debug\net7.0\ModelSimbol.dll
+D:\dotnet\Kalkulator\ModelSimbol\bin\Debug\net7.0\ModelSimbol.pdb
+D:\dotnet\Kalkulator\ModelSimbol\obj\Debug\net7.0\ModelSimbol.csproj.AssemblyReference.cache
+D:\dotnet\Kalkulator\ModelSimbol\obj\Debug\net7.0\ModelSimbol.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\Kalkulator\ModelSimbol\obj\Debug\net7.0\ModelSimbol.AssemblyInfoInputs.cache
+D:\dotnet\Kalkulator\ModelSimbol\obj\Debug\net7.0\ModelSimbol.AssemblyInfo.cs
+D:\dotnet\Kalkulator\ModelSimbol\obj\Debug\net7.0\ModelSimbol.csproj.CoreCompileInputs.cache
+D:\dotnet\Kalkulator\ModelSimbol\obj\Debug\net7.0\ModelSimbol.dll
+D:\dotnet\Kalkulator\ModelSimbol\obj\Debug\net7.0\refint\ModelSimbol.dll
+D:\dotnet\Kalkulator\ModelSimbol\obj\Debug\net7.0\ModelSimbol.pdb
+D:\dotnet\Kalkulator\ModelSimbol\obj\Debug\net7.0\ModelSimbol.genruntimeconfig.cache
+D:\dotnet\Kalkulator\ModelSimbol\obj\Debug\net7.0\ref\ModelSimbol.dll
